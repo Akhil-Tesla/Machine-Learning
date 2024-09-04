@@ -1,3 +1,9 @@
 # Machine Learning 
 
-_*Supervised Learning Algorithms Notebook*_
+_*Supervised Learning Algorithms Notebooks*_
+
+## week 1
+* Types of machine learning
+  ** Supervised Learning
+  **Unsupervised Learning
+  **reinforcement Learning
